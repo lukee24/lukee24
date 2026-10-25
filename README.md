@@ -1,23 +1,44 @@
 # Lukee
 
-我是 Lukee，成都人。平时喜欢电脑、汽车和 AI，想到什么有意思的东西，就想自己试着弄一下。
+**AI · Automation · Hardware**  
+**AI · 自动化 · 硬件**
 
-## 最近在做
+---
 
-### AI 电子挂件
+## 中文
 
-最近主要在做一个 AI 电子挂件，外观和 3D 模型还在反复调整，后面还要继续弄电路板这些。
+我是 Lukee，来自成都。喜欢电脑、汽车和 AI，有感兴趣的想法，就动手试着做出来，不会的边学边做。
 
-## 之前折腾过
+### 正在做 · AI 电子挂件
 
-### MT5 自动交易与 GTA5 模组
+目前在调整外观和 3D 模型，电路板与硬件实现还需要继续研究。项目仍在开发中。
 
-之前做过 MT5 自动交易，折腾过 GTA5 的画质和功能模组，也研究过车辆、房产、车库和模组安装工具。
+### 做过与研究过的方向
 
-### 电脑、路由器与衣服设计
+- **MT5 自动交易**：做过基于 MetaTrader 5 的自动交易项目。
+- **GTA5 模组**：折腾过画质和功能模组，研究过车辆、房产、车库及模组安装工具。
+- **电脑与路由器**：有电脑维修和路由器配置的动手经历。
 
-我也修过电脑、折腾过路由器，做过服装生意，现在还在做自己的衣服设计。
+### 做事方式
 
-## 边学边做
+平时会用 AI 辅助学习和解决问题，也会自己检查结果。有些项目已经动手做过，有些还在研究和调整。
 
-做的东西比较杂，有些已经做过，有些还在学、还在改。平时会用 AI 帮忙，但最后做出来是什么样，还是想自己好好把关。
+---
+
+## English
+
+I’m Lukee, from Chengdu, China. I’m interested in computers, cars, and AI. When an idea catches my interest, I try building it and learn along the way.
+
+### Current project · AI pendant
+
+I’m refining the exterior design and 3D model. PCB design and hardware implementation still need further work. The project is in development.
+
+### Previous work & exploration
+
+- **MT5 automated trading**: Worked on automated trading projects using MetaTrader 5.
+- **GTA5 mods**: Experimented with graphics and gameplay mods, and explored vehicles, properties, garages, and mod installation tools.
+- **Computers & routers**: Hands-on experience with computer repair and router configuration.
+
+### How I work
+
+I use AI to help me learn and solve problems, and I check the results myself. Some projects have reached hands-on work; others are still being explored and refined.
