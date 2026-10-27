@@ -1,44 +1,41 @@
 # Lukee
+**个人开发者 · AI 项目与产品设计**  
+Independent Developer · AI Projects & Product Design
 
-**AI · Automation · Hardware**  
-**AI · 自动化 · 硬件**
+## 关于我 / About Me
 
----
+我是 Lukee，21 岁，致力于用 AI 完成自己的项目。目前主要在做 GTA5 模组工具和 AI 电子挂件，之前也做过 MT5 自动交易。
 
-## 中文
+I’m Lukee, a 21-year-old independent developer using AI to build my own projects. I’m currently working on GTA V modding tools and an AI electronic charm. I’ve also worked on automated trading with MT5.
 
-我是 Lukee，来自成都。喜欢电脑、汽车和 AI，有感兴趣的想法，就动手试着做出来，不会的边学边做。
+## 当前项目 / Current Projects
 
-### 正在做 · AI 电子挂件
+### GTA V 模组工具
+为喜欢的游戏开发自己想要的功能。
 
-目前在调整外观和 3D 模型，电路板与硬件实现还需要继续研究。项目仍在开发中。
+- **当前阶段：** 完善功能与模块加载。
+- **下一步：** 逐项测试，确认各项功能能正常运行。
 
-### 做过与研究过的方向
+Building the features I want for a game I enjoy.
+- **In progress:** Refining features and module loading.
+- **Next:** Testing each function to verify that it works as intended.
 
-- **MT5 自动交易**：做过基于 MetaTrader 5 的自动交易项目。
-- **GTA5 模组**：折腾过画质和功能模组，研究过车辆、房产、车库及模组安装工具。
-- **电脑与路由器**：有电脑维修和路由器配置的动手经历。
+### AI 电子挂件 / AI Electronic Charm
+希望做出一款自己的电子挂件产品。
 
-### 做事方式
+- **当前阶段：** 调整外观设计与 3D 模型。
+- **下一步：** 推进电路板设计与硬件开发。
 
-平时会用 AI 辅助学习和解决问题，也会自己检查结果。有些项目已经动手做过，有些还在研究和调整。
+Working toward creating my own electronic charm.
+- **In progress:** Revising the exterior design and 3D model.
+- **Next:** Circuit board design and hardware development.
 
----
+## 产品设计 / Product Design
 
-## English
+我喜欢有意思的设计。从外观、功能到使用体验，我希望亲自参与一款产品从想法到成品的过程。
 
-I’m Lukee, from Chengdu, China. I’m interested in computers, cars, and AI. When an idea catches my interest, I try building it and learn along the way.
+我的梦想是设计产品，做出自己真正喜欢、也有人愿意使用的东西。
 
-### Current project · AI pendant
+I’m drawn to interesting design. From appearance and functionality to the experience of using it, I want to help shape a product from an idea into something real.
 
-I’m refining the exterior design and 3D model. PCB design and hardware implementation still need further work. The project is in development.
-
-### Previous work & exploration
-
-- **MT5 automated trading**: Worked on automated trading projects using MetaTrader 5.
-- **GTA5 mods**: Experimented with graphics and gameplay mods, and explored vehicles, properties, garages, and mod installation tools.
-- **Computers & routers**: Hands-on experience with computer repair and router configuration.
-
-### How I work
-
-I use AI to help me learn and solve problems, and I check the results myself. Some projects have reached hands-on work; others are still being explored and refined.
+My dream is to design products I genuinely like and that other people want to use.
